@@ -1,0 +1,9 @@
+[submodule "yuyue-java-dependencies"]
+	path = yuyue-java-dependencies
+	url = git@github.com:yuyue98/yuyue-java-dependencies.git
+[submodule "yuyue-java-common"]
+	path = yuyue-java-common
+	url = git@github.com:yuyue98/yuyue-java-common.git
+[submodule "yuyue-java-translate"]
+	path = yuyue-java-translate
+	url = git@github.com:yuyue98/yuyue-java-translate.git
