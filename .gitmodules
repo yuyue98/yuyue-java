@@ -8,5 +8,5 @@
 	path = yuyue-java-translate
 	url = git@github.com:yuyue98/yuyue-java-translate.git
 [submodule "yuyue-java-spring"]
-	path = yuyue-java-translate
+	path = yuyue-java-spring
 	url = git@github.com:yuyue98/yuyue-java-spring.git
