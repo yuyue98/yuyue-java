@@ -18,8 +18,4 @@
         <module>yuyue-java-translate</module>
         <module>yuyue-java-spring</module>
     </modules>
-
-    <!-- <properties> -->
-    <!--     <maven.test.skip>true</maven.test.skip> -->
-    <!-- </properties> -->
 </project>
