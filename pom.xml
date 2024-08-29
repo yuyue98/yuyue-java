@@ -14,5 +14,6 @@
         <module>yuyue-java-dependencies</module>
         <module>yuyue-java-common</module>
         <module>yuyue-java-translate</module>
+        <module>yuyue-java-spring</module>
     </modules>
 </project>
