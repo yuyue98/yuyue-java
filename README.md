@@ -1,10 +1,10 @@
-<h1 align="center">
-  yuyue-java 相关工具
+<h1 style="text-align:center;vertical-align:middle;">
+  yuyue-java 自制工具
   <br>
 </h1>
 
-<p align="center">
-  <b>使用Java实现的相关工具类，参考hutool等公共工具类实现</b>
+<p style="text-align:center;vertical-align:middle;">
+  <b>使用Java实现的自制工具，参考hutool等公共工具类实现</b>
   <br>
   <b>开源 | 有效 | 自用</b>
   <br>
@@ -13,7 +13,7 @@
   <br>
 </p>
 
-<p align="center">
+<p style="text-align:center;vertical-align:middle;">
   <a href="/README.md">中文</a> •
   <a href="/README_EN.md">English</a>
 </p>
