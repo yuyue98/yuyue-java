@@ -4,9 +4,12 @@
 [submodule "yuyue-java-core"]
 	path = yuyue-java-core
 	url = git@github.com:yuyue98/yuyue-java-core.git
+[submodule "yuyue-java-spring-core"]
+	path = yuyue-java-spring-core
+	url = git@github.com:yuyue98/yuyue-java-spring-core.git
+[submodule "yuyue-java-spring-model"]
+	path = yuyue-java-spring-model
+	url = git@github.com:yuyue98/yuyue-java-spring-model.git
 [submodule "yuyue-java-translate"]
 	path = yuyue-java-translate
 	url = git@github.com:yuyue98/yuyue-java-translate.git
-[submodule "yuyue-java-spring"]
-	path = yuyue-java-spring
-	url = git@github.com:yuyue98/yuyue-java-spring.git
