@@ -8,7 +8,7 @@
   <br>
   <b>开源 | 有效 | 自用</b>
   <br>
-  <img src="https://img.shields.io/github/last-commit/yuyue98/yuyue-java?color=66CCFF&label=最后更新时间" alt="CI">
+  <img src="https://img.shields.io/github/last-commit/yuyue98/yuyue-java?color=66CCFF&label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4" alt="CI">
   <br>
   <br>
 </p>
