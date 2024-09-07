@@ -20,8 +20,31 @@
 
 ---
 
-### 学习笔记目录
+* 生成目录工具
+  * 下载生成目录的工具gh-md-toc
+  * [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go/releases)
+* 生成目录命令
 
-- [Java相关注意点](./document/Java相关注意点.md)
+```shell
+gh-md-toc.exe --serial ./document/Git学习笔记.md ./document/Java学习笔记.md
+```
+
+## 学习笔记目录
+
+* [Git学习笔记](./document/Git学习笔记.md#git学习笔记)
+  * [Git命令](./document/Git学习笔记.md#git命令)
+    * [Git基础命令](./document/Git学习笔记.md#git基础命令)
+    * [Git子模块命令](./document/Git学习笔记.md#git子模块命令)
+  * [Git注意点](./document/Git学习笔记.md#git注意点)
+    * [1 git submodule 的坑](./document/Git学习笔记.md#1-git-submodule-的坑)
+      * [1\.1 更新submodule的坑](./document/Git学习笔记.md#11-更新submodule的坑)
+      * [1\.2 修改submodule的坑](./document/Git学习笔记.md#12-修改submodule的坑)
+
+* [Java学习笔记](./document/Java学习笔记.md#java学习笔记)
+  * [Java注意点](./document/Java学习笔记.md#java注意点)
+    * [【0001】入参存在告警，“未注解的形参重写 @NonNullApi 形参”](./document/Java学习笔记.md#0001入参存在告警未注解的形参重写-nonnullapi-形参)
+
+
+
 
 
