@@ -17,3 +17,11 @@
   <a href="/README.md">中文</a> •
   <a href="/README_EN.md">English</a>
 </p>
+
+---
+
+### 学习笔记目录
+
+- [Java相关注意点](./document/Java相关注意点.md)
+
+
